@@ -15,3 +15,5 @@ Follow the steps in order:
 You can also input a test comment using emojis and something spammy by inputting "2".
 
 Please credit me if you copy this tool!
+
+![Important](https://github.com/gschneider1911/youtube-spam-detection/blob/main/Important%20Tip.png?raw=true)
